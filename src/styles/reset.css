@@ -157,7 +157,7 @@ body {
 }
 
 html {
-  background-color: "#4C4C4C";
+  background: linear-gradient(-135deg, #E4A972, #9941D8);
 }
 
 div {
